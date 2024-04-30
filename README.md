@@ -53,7 +53,7 @@ Today learn more about how [eBay Clone App](https://sangvish.com/ebay-clone/) an
 Start your journey today! Book a free consultation and create your own thriving online business with innovative e-commerce solutions.
 
 
-🌐 Visit- https://sangvish.com/ebay-clone/
+🌐 Experience our live demo to build your ecommerce marketplace- [https://sangvish.com/ebay-clone/](https://sangvish.com/ebay-clone/#demo)
 
 **Get Started**
 
