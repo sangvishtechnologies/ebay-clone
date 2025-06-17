@@ -1,4 +1,4 @@
-<h1 align="center"> 🛒 What is an eBay Clone? Features, Benefits, and Business Insights 🛍️ </h1>
+<h1 align="center"> 🛒 What is an eBay Clone? Features, Benefits, and Business Insights </h1>
 
 In today’s rapidly evolving eCommerce landscape, entrepreneurs are constantly looking for scalable, feature-rich platforms to build their own multi-vendor marketplaces. One of the most popular and effective solutions is an eBay Clone — a ready-made script that mimics the core features of eBay while offering complete customization for your brand.
 
